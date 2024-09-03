@@ -25,5 +25,10 @@ To send marketing emails to customers and store records to MongoDB
    ![image](https://github.com/user-attachments/assets/e012b14e-1ae5-4dcc-adc9-8ac4b657b5d0)
 
 
+## Sample email preview
+![image](https://github.com/user-attachments/assets/90cb861f-333e-413a-9d73-ba1b0774d181)
+
+
+
 ## Help & Support
 Contact me if you have any questions! 😊
